@@ -10,7 +10,7 @@
 
 ## WHITE FLIGHT
 <img src="images/cities.png" width="600"/>
-<img src="imageswhite-flight.png" width="600"/>
+<img src="images/white-flight.png" width="600"/>
 
 ## IOWA
 <img src="images/heroes-game.png" width="600"/>
